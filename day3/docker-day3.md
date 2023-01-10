@@ -26,5 +26,5 @@ Resources->WSL Integration unable ubuntu and click save and restart.
 
 additionally if you face and difficulties go through this link : https://docs.docker.com/desktop/install/windows-install/ 
 
-IN next Thread we will run docker container on our local system. Stay tuned🚀♾
+In next Thread we will run docker container on our local system. Stay tuned🚀♾
 #DevOpswithMeet
